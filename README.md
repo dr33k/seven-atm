@@ -1,8 +1,8 @@
-# HIIT BANK
+# Seven ATM
 
 ### Python Console Application
 
-A bank account simulation developed to teach students of the Python course at HiiT Plc Training Institiute, Abuja, Nigeria.
+An ATM simulation ..if it were possile to login and register on an ATM, developed to teach students of the Python course at HiiT Plc Training Institiute, Abuja, Nigeria.
 
 ### Run:
 
